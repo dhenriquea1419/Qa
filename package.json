@@ -1,0 +1,23 @@
+{
+  "name": "qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhenriquea1419/Qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhenriquea1419/Qa/issues"
+  },
+  "homepage": "https://github.com/dhenriquea1419/Qa#readme",
+  "devDependencies": {
+    "cypress": "^15.14.2"
+  }
+}
